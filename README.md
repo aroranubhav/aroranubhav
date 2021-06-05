@@ -58,22 +58,17 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 
 <br>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=aroranubhav&show_icons=true&theme=great-gatsby&count_private=true" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=aroranubhav&show_icons=true&theme=great-gatsby&count_private=true&hide_border=true" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aroranubhav&theme=great-gatsby" width="45%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aroranubhav&theme=great-gatsby&hide_border=true" width="45%" >
 
 <br>
-<br>
-
 <div align="center">
 
-
 ### Show some ❤️ by starring ⭐ some of the repositories!
-
 <br>
 
 ### :mailbox: Reach me out!
-
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/-anubhavarora/)
 [<img src="https://img.shields.io/badge/Mail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:arora.anubhav93@gmail.com)
