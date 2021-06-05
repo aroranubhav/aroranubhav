@@ -43,13 +43,22 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 
 ## 📘 Latest Blog Articles
 
+<div align="center">
+
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60"> 
+<br>
+[Medium](https://anubhav-arora.medium.com/)
+</div>
+
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 - [Android: ListAdapter, a Better Implementation for the RecyclerView](https://medium.com/geekculture/android-listadapter-a-better-implementation-for-the-recyclerview-1af1826a7d21)
 - [Android : Does your network have Internet Access ?](https://medium.com/geekculture/android-does-your-network-have-internet-access-d1468a5412ac)
 - [Android: Room, Saving Local Data the Modern Way](https://medium.com/codex/android-room-saving-local-data-the-modern-way-b5f5f0e8b423)
 - [Terminal Commands Every Developer Must Know](https://medium.com/codex/terminal-commands-every-developer-must-know-bc02021c12c8)
 - [Android: View Binding v/s Data Binding](https://medium.com/geekculture/android-view-binding-v-s-data-binding-5862a27524e9)
-- <img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60">  [...more blog articles](https://anubhav-arora.medium.com/)</img>
+
 
 <br >
 
