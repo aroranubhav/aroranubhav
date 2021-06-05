@@ -1,8 +1,14 @@
-## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I am Anubhav Arora !
+<h1 align="center"> नमस्ते (Namaste), <br> I am Anubhav Arora <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-Software Engineer specializing in Android Mobile Applications and Kotlin. I have a professional experience with the technologies listed below. I write Tech articles in my free time. I am a hobbyist [photographer](https://unsplash.com/@_anubhavarora).
+<h3 align="center">I am a Software and Android Applications Developer from India ❤</h3>
+
+A Software Engineer specializing in Android Mobile Applications and Kotlin. I have a professional experience with the technologies listed below. I write Tech articles in my free time. I am a hobbyist [photographer](https://unsplash.com/@_anubhavarora).
 
 <br>
+
+![living](https://img.shields.io/badge/living-Pune-F6891F)
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I am currently working at Talentica Software
 - :iphone: I am currently developing apps for [Mist Systems, a Juniper Company](https://github.com/mistsys)
@@ -44,6 +50,10 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 ## 📘 Latest Blog Articles
 
 <br>
+<div align="center">
+
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60"> 
+</div>
 
 <!-- BLOG-POST-LIST:START -->
 - [Android: ListAdapter, a Better Implementation for the RecyclerView](https://medium.com/geekculture/android-listadapter-a-better-implementation-for-the-recyclerview-1af1826a7d21)
@@ -53,9 +63,6 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 - [Android: View Binding v/s Data Binding](https://medium.com/geekculture/android-view-binding-v-s-data-binding-5862a27524e9)
 
 <div align="center">
-
-<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60"> 
-<br>
 
 [Read More](https://anubhav-arora.medium.com/)
 </div>
