@@ -11,8 +11,8 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 ----
 
 - 🔭 I am currently working at Talentica Software
-- :iphone: I am currently developing apps for Mist Systems, a Juniper Company
-- :computer: I am currently working on `A Music Preview Application` as a side project
+- :iphone: I am currently developing apps for [Mist Systems, a Juniper Company](https://github.com/aroranubhav/aroranubhav.git)
+- :computer: I am currently working on `A Music Preview Application` as a side project in collboration at [Daak-Knights](https://github.com/Daak-Knights)
 - :bookmark_tabs: I am a Tech Writer at [Geek Culuture](https://medium.com/geekculture) and [CodeX](https://medium.com/codex) 
 - :scroll: I write on [Medium](https://anubhav-arora.medium.com) 
 - :goal_net: My goal for 2021 is to contribute to OpenSource
@@ -30,7 +30,7 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 
 #### 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Android Studio" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50"  style="--color_fill: #fff;"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="SoruceTree" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/logo/android-logomark" alt="Android Studio" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50"  style="--color_fill: #fff;"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="SoruceTree" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
 
 ---
 
