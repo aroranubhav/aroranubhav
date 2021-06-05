@@ -47,3 +47,25 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 ---
 
 ![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroranubhav&theme=great-gatsby&count_private=true)
+
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/android.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/kotlin.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/java.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/python.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/django.svg" height="60" width="60">
+
+<br>
+
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
