@@ -1,10 +1,9 @@
 <h1 align="center"> नमस्ते (Namaste), <br> I am Anubhav Arora <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I am a Software and Android Applications Developer from India ❤</h3>
+<h3 align="center">I am a Software Engineer and Android Applications Developer from India ❤</h3>
 
 A Software Engineer specializing in Android Mobile Applications and Kotlin. I have a professional experience with the technologies listed below. I write Tech articles in my free time. I am a hobbyist [photographer](https://unsplash.com/@_anubhavarora).
 
-<br>
 
 ![living](https://img.shields.io/badge/living-Pune-F6891F)
 
@@ -61,13 +60,18 @@ A Software Engineer specializing in Android Mobile Applications and Kotlin. I ha
 - [Android: Room, Saving Local Data the Modern Way](https://medium.com/codex/android-room-saving-local-data-the-modern-way-b5f5f0e8b423)
 - [Terminal Commands Every Developer Must Know](https://medium.com/codex/terminal-commands-every-developer-must-know-bc02021c12c8)
 - [Android: View Binding v/s Data Binding](https://medium.com/geekculture/android-view-binding-v-s-data-binding-5862a27524e9)
+- [..Read More](https://anubhav-arora.medium.com/)
+
+<br >
+
+## :octocat: Stack Overflow
 
 <div align="center">
 
-[Read More](https://anubhav-arora.medium.com/)
-</div>
+ [<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/sourcetree.svg">](https://stackoverflow.com/users/4724710/anubhav)
 
-<br >
+ </div>
+
 
 ## 🏆 Github Status
 
