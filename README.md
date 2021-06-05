@@ -43,13 +43,6 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 
 ## 📘 Latest Blog Articles
 
-<div align="center">
-
-<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60"> 
-<br>
-[Medium](https://anubhav-arora.medium.com/)
-</div>
-
 <br>
 
 <!-- BLOG-POST-LIST:START -->
@@ -59,6 +52,13 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 - [Terminal Commands Every Developer Must Know](https://medium.com/codex/terminal-commands-every-developer-must-know-bc02021c12c8)
 - [Android: View Binding v/s Data Binding](https://medium.com/geekculture/android-view-binding-v-s-data-binding-5862a27524e9)
 
+<div align="center">
+
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60"> 
+<br>
+
+[Read More](https://anubhav-arora.medium.com/)
+</div>
 
 <br >
 
