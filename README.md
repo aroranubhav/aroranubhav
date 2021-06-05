@@ -68,7 +68,7 @@ A Software Engineer specializing in Android Mobile Applications and Kotlin. I ha
 
 <div align="center">
 
- [<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/sourcetree.svg">](https://stackoverflow.com/users/4724710/anubhav)
+ [<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/stackoverflow.svg" height="60" width="60">](https://stackoverflow.com/users/4724710/anubhav)
 
  </div>
 
