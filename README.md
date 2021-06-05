@@ -7,7 +7,7 @@ A Software Engineer specializing in Android Mobile Applications and Kotlin. I ha
 ![Location](https://img.shields.io/badge/Location-Dehradun-F6891F)
 
 
-<img width="50%" align="right" alt="Github Image" src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/anubhav.png" />
+<img width="50%" align="right" alt="Github Image" src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/media/profile.png" />
 
 - 🔭 I am currently working at Talentica Software
 - :iphone: I am currently developing apps for [Mist Systems, a Juniper Company](https://github.com/mistsys)
