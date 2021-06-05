@@ -76,7 +76,7 @@ A Software Engineer specializing in Android Mobile Applications and Kotlin. I ha
 
 <div align="center">
 
- [<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/leetcode.svg" height="60" width="60">](https://leetcode.com/_anubhavarora/)
+ [<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/leetcode.png" height="60" width="60">](https://leetcode.com/_anubhavarora/)
 
  </div>
 
