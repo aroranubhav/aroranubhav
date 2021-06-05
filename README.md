@@ -2,13 +2,7 @@
 
 Software Engineer specializing in Android Mobile Applications and Kotlin. I have a professional experience with the technologies listed below. I write Tech articles in my free time. I am a hobbyist [photographer](https://unsplash.com/@_anubhavarora).
 
----
-
-:mailbox: Reach me out!
-
-[![Mail Badge](https://img.shields.io/badge/-anubhav-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arora.anubhav93@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/--anubhavarora-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-anubhavarora/) [![Mail Badge](https://img.shields.io/badge/-@_anubhavarora-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/_anubhavarora/) [![Twitter Badge](https://img.shields.io/badge/-@_anubhavarora-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_anubhavarora)](https://twitter.com/_anubhavarora)  
-
-----
+<br>
 
 - 🔭 I am currently working at Talentica Software
 - :iphone: I am currently developing apps for [Mist Systems, a Juniper Company](https://github.com/mistsys)
@@ -18,19 +12,34 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 - :goal_net: My goal for 2021 is to contribute to OpenSource
 - ⚡ Fun fact: I am a photographer 📸 by hobby. I play :soccer:, :8ball:, and Cricket.
 - 📫 Reach me: arora.anubhav93@gmail.com.
+
+<br>  
+
+## 👨‍💻 Languages and Tools
+
+<div align="center">
   
---- 
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/android.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/kotlin.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/java.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/python.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/django.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/firebase.svg" height="60" width="60">
 
-#### :computer: Technologies 
+<br>
 
-<!-- TODO: Make technologies links takes you to repositories -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" alt="Android" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" width="50" height="50"/> 
 
----
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/android_studio.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/intellij.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/git.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/github.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/pycharm.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/bootstrap.svg" height="60" width="60">
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/sourcetree.svg" height="60" width="60">
 
-#### 🧰 Toolbox
+<br>
 
-<img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="Android Studio" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="50" height="50"  style="--color_fill: #fff;"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original.svg" alt="SoruceTree" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="PyCharm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+</div>
 
 ---
 
@@ -42,30 +51,42 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 - [Android: Room, Saving Local Data the Modern Way](https://medium.com/codex/android-room-saving-local-data-the-modern-way-b5f5f0e8b423)
 - [Terminal Commands Every Developer Must Know](https://medium.com/codex/terminal-commands-every-developer-must-know-bc02021c12c8)
 - [Android: View Binding v/s Data Binding](https://medium.com/geekculture/android-view-binding-v-s-data-binding-5862a27524e9)
-▶ [...more blog articles](https://anubhav-arora.medium.com/)
+- 
+<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60">[...more blog articles](https://anubhav-arora.medium.com/)</img>
 
 ---
 
 ![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroranubhav&theme=great-gatsby&count_private=true)
 
-## 👨‍💻 Languages and Tools
+
+<br >
+
+## 🏆 Github Status
+
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aroranubhav&theme=great-gatsby" width="45%" >
+
+<img  src="https://github-readme-stats.vercel.app/api?username=aroranubhav&show_icons=true&theme=great-gatsby&count_private=true" width="45%" align="right" >
+
+<br>
+<br>
 
 <div align="center">
-  
-<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/android.svg" height="60" width="60">
-<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/kotlin.svg" height="60" width="60">
-<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/java.svg" height="60" width="60">
-<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/python.svg" height="60" width="60">
-<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/django.svg" height="60" width="60">
+
+
+### Show some ❤️ by starring ⭐ some of the repositories!
 
 <br>
 
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/postgres.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png">
+### :mailbox: Reach me out!
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/-anubhavarora/)
+[<img src="https://img.shields.io/badge/Mail-BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:arora.anubhav93@gmail.com)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_anubhavarora/)
+
+[<img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/_anubhavarora)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/anubhavaroraa/)
+
+
+</div>
