@@ -4,7 +4,7 @@
 
 A Software Engineer specializing in Android Mobile Applications and Kotlin. I have a professional experience with the technologies listed below. I write Tech articles in my free time. I am a hobbyist [photographer](https://unsplash.com/@_anubhavarora).
 
-![Location](https://img.shields.io/badge/living-Dehradun-F6891F) :sunrise_over_mountains:
+![Location](https://img.shields.io/badge/Location-Dehradun-F6891F)
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
