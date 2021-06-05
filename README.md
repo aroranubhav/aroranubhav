@@ -13,7 +13,6 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 - ⚡ Fun fact: I am a photographer 📸 by hobby. I play :soccer:, :8ball:, and Cricket.
 - 📫 Reach me: arora.anubhav93@gmail.com.
 
-<br>  
 
 ## 👨‍💻 Languages and Tools
 
@@ -43,7 +42,7 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 
 ---
 
-### 📘 Latest Blog Articles
+## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Android: ListAdapter, a Better Implementation for the RecyclerView](https://medium.com/geekculture/android-listadapter-a-better-implementation-for-the-recyclerview-1af1826a7d21)
@@ -51,22 +50,17 @@ Software Engineer specializing in Android Mobile Applications and Kotlin. I have
 - [Android: Room, Saving Local Data the Modern Way](https://medium.com/codex/android-room-saving-local-data-the-modern-way-b5f5f0e8b423)
 - [Terminal Commands Every Developer Must Know](https://medium.com/codex/terminal-commands-every-developer-must-know-bc02021c12c8)
 - [Android: View Binding v/s Data Binding](https://medium.com/geekculture/android-view-binding-v-s-data-binding-5862a27524e9)
-- 
-<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60">[...more blog articles](https://anubhav-arora.medium.com/)</img>
-
----
-
-![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=aroranubhav&theme=great-gatsby&count_private=true)
-
+- <img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60">[...more blog articles](https://anubhav-arora.medium.com/)</img>
 
 <br >
 
 ## 🏆 Github Status
 
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aroranubhav&theme=great-gatsby" width="45%" >
+<br>
 
 <img  src="https://github-readme-stats.vercel.app/api?username=aroranubhav&show_icons=true&theme=great-gatsby&count_private=true" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aroranubhav&theme=great-gatsby" width="45%" >
 
 <br>
 <br>
