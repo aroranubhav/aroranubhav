@@ -1,6 +1,6 @@
 <h1 align="center"> नमस्ते (Namaste), <br> I am Anubhav Arora <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I am a Software Engineer and Android Applications Developer from India ❤</h3>
+<h3 align="center">I am a Software Engineer and an Android Applications Developer from India ❤</h3>
 
 A Software Engineer specializing in Android Mobile Applications and Kotlin. I have a professional experience with the technologies listed below. I write Tech articles in my free time. I am a hobbyist [photographer](https://unsplash.com/@_anubhavarora).
 
