@@ -95,7 +95,7 @@ A Software Engineer specializing in Android Mobile Applications and Kotlin. I ha
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
-### :mailbox: Reach me out!
+<!-- ### :mailbox: Reach me out! -->
 
 <!--  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/)
