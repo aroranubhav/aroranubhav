@@ -93,7 +93,7 @@ A Software Engineer specializing in Android Mobile Applications and Kotlin. I ha
 
 <div align="center">
 
-### Show some ❤️ by starring ⭐ some of the repositories!
+### Show some ❤️ by ⭐ some of the repositories!
 
 <!-- ### :mailbox: Reach me out! -->
 
