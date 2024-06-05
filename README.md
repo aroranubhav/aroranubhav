@@ -4,7 +4,7 @@
 
 A Software Engineer specializing in Android Mobile Applications and Kotlin. I have a professional experience with the technologies listed below. I write Tech articles in my free time. I am a hobbyist [photographer](https://unsplash.com/@_anubhavarora).
 
-![Location](https://img.shields.io/badge/Location-Dehradun-F6891F)
+![Location](https://img.shields.io/badge/Location-Pune-F6891F)
 
 
 <img width="25%" align="right" alt="Github Image" src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/media/profile.png" />
