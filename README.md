@@ -11,7 +11,6 @@ A Software Engineer specializing in Android Mobile Applications and Kotlin. I ha
 
 - 🔭 I am currently working at Talentica Software
 - :iphone: I am currently developing apps for [Mist Systems, a Juniper Company](https://github.com/mistsys)
-- :computer: I am currently working on `A Music Preview Application` as a side project in collaboration at [Daak-Knights](https://github.com/Daak-Knights)
 - :bookmark_tabs: I am a Tech Writer at [Geek Culuture](https://medium.com/geekculture) and [CodeX](https://medium.com/codex) 
 - :scroll: I write on [Medium](https://anubhav-arora.medium.com) 
 - :goal_net: My goal for 2021 is to contribute to OpenSource
