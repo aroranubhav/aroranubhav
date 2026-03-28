@@ -4,6 +4,7 @@ Software Engineer specialising in **Android** and **Kotlin**, with a focus on bu
 
 📬 anubhavarora03@gmail.com &nbsp;|&nbsp; 🌍 Pune, India &nbsp;|&nbsp; 💼 Open to new opportunities
 
+<!--
 ## 📌 Pinned Repositories
 <table width="100%">
   <tr>
@@ -45,7 +46,7 @@ Software Engineer specialising in **Android** and **Kotlin**, with a focus on bu
     </td>
   </tr>
 </table>
-
+-->
 ## 📘 Articles
 
 <br>
