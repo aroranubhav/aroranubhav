@@ -4,6 +4,48 @@ Software Engineer specialising in **Android** and **Kotlin**, with a focus on bu
 
 📬 anubhavarora03@gmail.com &nbsp;|&nbsp; 🌍 Pune, India &nbsp;|&nbsp; 💼 Open to new opportunities
 
+## 📌 Pinned Repositories
+<table width="100%">
+  <tr>
+    <td valign="top">
+      &nbsp;<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/aroranubhav/NewsOnlyOkHttp"><b>NewsOnly OkHttp</b></a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<sub>Android app with network-only data layer and OkHttp interceptor caching (no local persistence).</sub>
+      <br>&nbsp;
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      &nbsp;<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/aroranubhav/snapgrab"><b>Snapgrab</b></a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<sub>Modular Android library for downloading files with real-time progress tracking.</sub>
+      <br>&nbsp;
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      &nbsp;<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/aroranubhav/DailyFeed"><b>DailyFeed</b></a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<sub>Modern Android app using MVVM, Kotlin Flow, Retrofit, Room, Paging, and WorkManager.</sub>
+      <br>&nbsp;
+    </td>
+  </tr>
+</table>
+<table width="100%">
+  <tr>
+    <td valign="top">
+      &nbsp;<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/aroranubhav/Unit-Converter"><b>Unit Converter App</b></a><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;<sub>Minimal Android app demonstrating a production-grade CI/CD pipeline using GitHub Actions and Firebase App Distribution.</sub>
+      <br>&nbsp;
+    </td>
+  </tr>
+</table>
+
 ## 📘 Articles
 
 <br>
