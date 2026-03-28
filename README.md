@@ -36,7 +36,7 @@ Software Engineer specialising in **Android** and **Kotlin**, with a focus on bu
 <br>
 <div align="center">
 
-<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60"> 
+<!--<img src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/logos/medium.svg" height="60" width="60"> -->
 </div>
 
 <!-- BLOG-POST-LIST:START -->
@@ -57,7 +57,7 @@ Software Engineer specialising in **Android** and **Kotlin**, with a focus on bu
 
  </div>
 
- ## :octocat: Data Structures and Algorithms
+ ## :octocat: Leetcode
 
 <div align="center">
 
@@ -66,12 +66,12 @@ Software Engineer specialising in **Android** and **Kotlin**, with a focus on bu
  </div>
 
 
+<!--
 ## 🏆 Github Status
 
 <br>
 
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=aroranubhav&show_icons=true&theme=great-gatsby&count_private=true&hide_border=true" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aroranubhav&theme=great-gatsby&hide_border=true" width="45%" >
 </div>
@@ -79,6 +79,7 @@ Software Engineer specialising in **Android** and **Kotlin**, with a focus on bu
 <div align="center">
 
 ### Show some ❤️ by ⭐ some of the repositories!
+ -->
 
 <!-- ### :mailbox: Reach me out! -->
 
