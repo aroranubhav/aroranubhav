@@ -1,22 +1,8 @@
-<h1 align="center"> नमस्ते (Namaste), <br> I am Anubhav Arora <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hello I am Anubhav Arora <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I am a Software Engineer and an Android Applications Developer from India ❤</h3>
+Software Engineer specialising in **Android** and **Kotlin**, with a focus on building clean, performant mobile applications. I enjoy writing about what I build — you'll find my articles on [Medium](https://anubhav-arora.medium.com), where I cover Android development, architecture patterns, and practical engineering topics.
 
-A Software Engineer specializing in Android Mobile Applications and Kotlin. I have a professional experience with the technologies listed below. I write Tech articles in my free time. I am a hobbyist [photographer](https://unsplash.com/@_anubhavarora).
-
-![Location](https://img.shields.io/badge/Location-Pune-F6891F)
-
-
-<img width="25%" align="right" alt="Github Image" src="https://github.com/aroranubhav/aroranubhav/blob/readme_upgradation/media/profile.png" />
-
-- 🔭 I am currently working at Talentica Software
-- :iphone: I am currently developing apps for [Mist Systems, a Juniper Company](https://github.com/mistsys)
-- :bookmark_tabs: I am a Tech Writer at [Geek Culuture](https://medium.com/geekculture) and [CodeX](https://medium.com/codex) 
-- :scroll: I write on [Medium](https://anubhav-arora.medium.com) 
-- :goal_net: My goal for 2021 is to contribute to OpenSource
-- ⚡ Fun fact: I am a photographer 📸 by hobby. I play :soccer:, :8ball:, and Cricket.
-- 📫 Reach me: arora.anubhav93@gmail.com.
-
+📬 anubhavarora03@gmail.com &nbsp;|&nbsp; 🌍 Pune, India &nbsp;|&nbsp; 💼 Open to new opportunities
 
 ## 👨‍💻 Languages and Tools
 
