@@ -1,6 +1,7 @@
 <h1 align="center"> Hello I am Anubhav Arora <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-Software Engineer specialising in **Android** and **Kotlin**, with a focus on building clean, performant mobile applications. I enjoy writing about what I build — you'll find my articles on [Medium](https://anubhav-arora.medium.com), where I cover Android development, architecture patterns, and practical engineering topics.
+Android Engineer with 9 years of experience building production-grade apps, libraries, and platform SDKs.
+Passionate about scalable product development, architecture, performance, and developer experience.
 
 📬 anubhavarora03@gmail.com &nbsp;|&nbsp; 🌍 Pune, India &nbsp;|&nbsp; 💼 Open to new opportunities
 
